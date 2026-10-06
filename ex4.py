@@ -1,0 +1,5 @@
+nome = input("Qual seu nome? ")
+carro_placa = input("Qual a placa do seu carro? ")
+carro_modelo = input("Qual o modelo do carro? ")
+carro_cor = input("Qual a cor do carro? ")
+print(f"Nome: {nome}\nPlaca do carro: {carro_placa}\nModelo do carro: {carro_modelo}\nCor do carro: {carro_cor}")
