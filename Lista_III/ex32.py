@@ -7,7 +7,7 @@ if saque < 10 or saque > 600:
 else:
     if saque >= 100:
         while saque >= 100:
-            saque = saque - 100
+        saque = saque - 100
             nota_cem += 1
 
     if saque >= 50:
