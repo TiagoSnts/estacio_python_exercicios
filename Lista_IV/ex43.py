@@ -14,4 +14,4 @@ real_cent = real_cent * 1.0
 
 total = um_cent + cinco_cent + dez_cent + vint_cent + cinc_cent + real_cent
 
-print(f"Voce tem R${total} guardado")
+print(f"Voce tem R${total} guardado!!")
